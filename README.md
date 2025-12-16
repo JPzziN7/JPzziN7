@@ -1,28 +1,31 @@
-<h1 align="left">Hi 👋, I'm João Pedro Magalhães</h1> <br/>
-<h3 align="left">I'm IT developers and student at SENAI 390 - Cruzeiro, SP. <br/> 
-  Interested in artificial intelligence, machine learning, large language models, data science and analyst and modelling processes.</h3>
+<h1 align="left">Hi 👋, I'm João Pedro de Oliveira Magalhães</h1>
+<h3 align="left">I'm a Web Developer and Audiovisual Enthusiast 🎬💻. 
+Currently diving deeper into front-end and back-end development while exploring everything related to audiovisual, like sites, films, and music.</h3>
 
-- 🔭 I’m currently working on [SENAIGPT390](https://github.com/lucasgarofolo/SENAIGPT390)
+- 🔭 I’m currently working on two projects:
+  - [**Mathwiz**](#) – An educational quiz platform.
+  - [**Vibe**](#) – A site for reviewing audiovisual productions.
+  
+- 🌱 I’m currently learning **Python, Node.js, and expanding my knowledge in web frameworks and tools like Laravel, IntelliJ IDEA, and NetBeans**.
 
-- 🌱 I’m currently learning **LLM's, OpenAI + LangChain + Pinecone, ChatBots**
+- 👯 I’m looking to collaborate on **web and audiovisual-related projects**.
 
-- 👯 I’m looking to collaborate on **neognoses**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Java, Web Development, and Audiovisual Tech**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/lucasgarofolo?tab=repositories](https://github.com/lucasgarofolo?tab=repositories)
-
-- 💬 Ask me about **fortran, python, data science, artificial intelligence**
-
-- 📫 How to reach me **lucas.garofolo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lucasgarofolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasgarofolo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas-garofolo-94b8bb6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-garofolo-94b8bb6a" height="30" width="40" /></a>
-<a href="https://instagram.com/lucasgarofolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasgarofolo" height="30" width="40" /></a>
-<a href="http://lattes.cnpq.br/0497974965413750" target="blank"><img align="center" src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg" height="30" width="40" /> </a>
-</p>
+- 📫 How to reach me:
+  - Email: **joaopedrodeoliveiramagalhaes5@gmail.com**
+  - [LinkedIn](https://www.linkedin.com/in/joão-pedro-de-oliveira-532b59270/)
+  - [Instagram](https://www.instagram.com/_jp.oliver?igsh=cDJ6d2RubHZscnh6)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgarofolo&show_icons=true&locale=en" alt="lucasgarofolo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroMagalhaes&show_icons=true&locale=en" alt="João Pedro" /></p>
